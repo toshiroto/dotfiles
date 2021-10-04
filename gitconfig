@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = chtopete@gmail.com
+	name = Carlos Hernandez Topete
